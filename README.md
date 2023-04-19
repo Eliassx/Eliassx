@@ -1,4 +1,4 @@
-### Hii! I'm Guilherme Elias, TI student!
+### Hii! I'm Guilherme Elias, IT's student!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliassx&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliassx&layout=compact&theme=dracula)](https://github.com/Eliassx/github-readme-stats)
