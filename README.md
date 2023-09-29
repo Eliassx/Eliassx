@@ -1,6 +1,6 @@
 ### Hii! I'm Guilherme Elias, IT's student!
 
-<div style="display: flex; align-items: center">
+<div style="display: flex; flex-direction: column; align-items: center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliassx&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliassx&layout=compact&theme=dracula)](https://github.com/Eliassx/github-readme-stats)
