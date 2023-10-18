@@ -6,7 +6,7 @@
 </ul>
 <div style="text_align: center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliassx&show_icons=true&theme=tokyonight) <br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliassx&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliassx&layout=compact&theme=tokyonight)
   
 </div>
