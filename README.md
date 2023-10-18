@@ -4,6 +4,7 @@
   <li>Front-End: HTML5, CSS3, JavaScript</li>
   <li>Back-End: NodeJS</li>
 </ul>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliassx&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliassx&layout=compact&theme=tokyonight)
 
