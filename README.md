@@ -1,7 +1,7 @@
 ### Hi there! I'm Guilherme Elias, IT's student.
 <p>I'm learning some Front-End and Back-End languages:</p>
 <ul type="circle">
-  <li>Front-End: HTML5, CSS3, JavaScript</li>
+  <li>Front-End: HTML5, CSS3, JavaScript (React)</li>
   <li>Back-End: NodeJS</li>
 </ul>
 <div style="text_align: center">
